@@ -1,3 +1,5 @@
+# FIREFOX WITH ANONIMOUS USER
+# VERSION 86.0.1
 FROM debian:buster-slim
 MAINTAINER Luis GL <luisgulo@gmail.com>
 # Todo actualizado
