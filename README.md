@@ -9,3 +9,4 @@ docker run -ti --rm  -e DISPLAY=$DISPLAY.0 -v /tmp/.X11-unix:/tmp/.X11-unix luis
 
 It is not necessary to invoke Firefox, it is launched automatically when executing the container
 
+Luisgulo (soloconlinux.org.es)
